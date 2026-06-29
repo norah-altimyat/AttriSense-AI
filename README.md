@@ -11,6 +11,10 @@ AttriSense AI is a machine learning web application designed to predict employee
 ![AttriSense AI Dashboard](dashboard.png)
 
 ---
+## Live Demo
+
+🚀 Try the app here:  
+https://attrisense-ai-norahds.streamlit.app
 
 ## Project Overview
 
